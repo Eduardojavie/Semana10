@@ -1,0 +1,62 @@
+.row {
+  display: flex;
+}
+ body{
+
+ }
+
+.menu{
+  color:black;
+  font-family: Raleway;
+  padding-top:50px;
+  padding-left:15px;
+  background-color: black;
+  color: white;
+  float: left;
+  width: 150px;
+  height: 1000px;
+  font-size: 1.3em;
+  height: 600px;
+}
+
+#content{
+  color:black;
+  font-family: Raleway;
+  float: left;
+  width: 75%; 
+  padding: 5%;
+}
+
+#img2{ 
+  background: cover;
+  width: 100%;
+  margin-left:30px; 
+  }
+#titulo{
+font-weight: bold;
+font-size: 1.6em;
+margin-top: 20px;
+margin-left: 30px;
+ }
+
+ #parrafo{
+  margin-left: 30px;
+  margin-top: 1%;
+  font-size: 1.1em;
+  text-align: justify;
+  text-justify:inter-word;
+ }
+
+ .pie{
+  background-color: black;
+  color: white;
+  padding: 1%;
+  bottom: 0%;
+  left: 0%;
+  width: 100%;
+  margin-left: 0%;
+ text-align: center;
+ position: fixed ;
+
+
+ }
